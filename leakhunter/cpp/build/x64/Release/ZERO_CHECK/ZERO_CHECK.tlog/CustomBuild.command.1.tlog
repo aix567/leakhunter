@@ -1,0 +1,10 @@
+^C:\USERS\AIX4\DOCUMENTS\LEAKHUNTER\CPP\BUILD\CMAKEFILES\40A1CF914CAF3DFD40956B0E5DDCDF4F\GENERATE.STAMP.RULE
+setlocal
+C:\msys64\ucrt64\bin\cmake.exe -SC:/Users/AIX4/Documents/leakhunter/cpp -BC:/Users/AIX4/Documents/leakhunter/cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/AIX4/Documents/leakhunter/cpp/build/leakhunter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
