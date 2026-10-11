@@ -236,6 +236,10 @@ Open an issue before a large PR so we can agree on the shape.
 MIT — see [LICENSE](LICENSE).
 
 ---
+## The Tool Process
+<img width="1920" height="1080" alt="prove 1" src="https://github.com/user-attachments/assets/bf91e272-552c-4e0b-ac8c-ccee48814dc7" />
+<img width="1912" height="1072" alt="prove 2" src="https://github.com/user-attachments/assets/8423a6a2-fe7a-4d7e-98ee-3b2c27c8375b" />
+
 
 ## Acknowledgments
 
